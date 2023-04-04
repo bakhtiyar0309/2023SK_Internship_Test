@@ -1,5 +1,5 @@
 # 2023SK_Internship_Test
-Entry test for research engineer internship  
+Entry test for research engineer internship position 
 
 ## Task #1 Applying the diffusion model for generating images of flowers
 
