@@ -74,8 +74,14 @@ g.invitation_list()
 
 
 <p align="center">
-  <img src="task_2/figures/task2_fig2.png">
+  <img src="task_2/figures/task2_fig2.jpg">
 </p>
 <p align="center">   
-   <em> Fig.1 Random Graph </em>
+   <em> Fig.1 Maximum guest combination </em>
 </p>
+
+
+To solve the maximization problem, run `.invitation_list()` method to obtain the final list of nodes we should invite for a picnic. 
+
+
+
