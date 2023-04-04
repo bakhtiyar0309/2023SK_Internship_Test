@@ -60,7 +60,7 @@ g.adj_matrix_to_graph()
 
 
 <p align="center">
-  <img src="task_2/figures/task2_fig1.png" width = 500>
+  <img src="task_2/figures/task2_fig1.png">
 </p>
 <p align="center">   
    <em> Fig.1 Random Graph </em>
@@ -89,9 +89,9 @@ g.invitation_list()
 ```
 
 <p align="center">
-  <img src="task_2/figures/task2_fig3.png" width = 500>
+  <img src="task_2/figures/task2_fig3.png">
 </p>
 <p align="center">   
-   <em> Fig.3 Maximum guest combination exampl </em>
+   <em> Fig.3 Maximum guest combination example </em>
 </p>
 
