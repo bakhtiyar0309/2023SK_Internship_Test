@@ -19,6 +19,6 @@ To replicate the results of the experiment, do the following:
   <img src="figures/floodnet.png">
 </p>
 <p align="center">   
-   <em> Fig.1 Results of the DDPM on FloodNet dataset </em>
+   <em> Fig.1 10 images from Flowers Dataset </em>
 </p>
 
