@@ -12,7 +12,7 @@ To replicate the results of the experiment, do the following:
 2. Go to `Step 1: Prepare the Dataset` and run all cells inside to load the trained model parameters `ddpm_flower.pth`.
     - `ddpm_flower.pth` - trained `ddpm` model parameters on $\approx$ 27% of Flowers Dataset with 100 epoches.
     
-3. To generate images of flowers using diffusion models, go to `__Step 3: Generating the images with the trained diffusion model__` and run corresponding cells.
+3. To generate images of flowers using diffusion models, go to `Step 3: Generating the images with the trained diffusion model` and run corresponding cells.
 
 
 <p align="center">
