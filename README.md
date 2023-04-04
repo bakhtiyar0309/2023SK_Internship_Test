@@ -56,7 +56,6 @@ D. `.adj_matrix_to_graph()` - To plot the resulting random graph using matplotli
 g = Graph()
 g.random_graph(n=10, p=0.4)
 g.adj_matrix_to_graph()
-g.invitation_list()
 ```
 
 
@@ -74,14 +73,25 @@ g.invitation_list()
 
 
 <p align="center">
-  <img src="task_2/figures/task2_fig2.jpg">
+  <img src="task_2/figures/task2_fig2.jpg" width = 300>
 </p>
 <p align="center">   
-   <em> Fig.1 Maximum guest combination </em>
+   <em> Fig.2 Maximum guest combination </em>
 </p>
 
 
 To solve the maximization problem, run `.invitation_list()` method to obtain the final list of nodes we should invite for a picnic. 
+```
+g = Graph()
+g.random_graph(n=10, p=0.4)
+g.adj_matrix_to_graph()
+g.invitation_list()
+```
 
-
+<p align="center">
+  <img src="task_2/figures/task2_fig3.png" width = 300>
+</p>
+<p align="center">   
+   <em> Fig.3 Maximum guest combination exampl </em>
+</p>
 
