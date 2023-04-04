@@ -50,7 +50,7 @@ C. `.random_graph()` - Generating a random graph based on Erdos Renyl Model
 D. `.adj_matrix_to_graph()` - To plot the resulting random graph using matplotlib
 
 
-#### Part A: To generate and plot a random graph execure the following code:
+#### Part A: To generate and plot a random graph, execute the following code:
 
 ```
 g = Graph()
@@ -58,6 +58,19 @@ g.random_graph(n=10, p=0.4)
 g.adj_matrix_to_graph()
 g.invitation_list()
 ```
+
+
+<p align="center">
+  <img src="task_2/figures/task2_fig1.png">
+</p>
+<p align="center">   
+   <em> Fig.1 Random Graph </em>
+</p>
+
+
+#### Part B: Maximize number of guests list
+
+>You are choosing, from a group of N number of friends, with whom to go for a picnic. However, persons linked with an edge are on very unfriendly terms with each other, so if both of them go to the picnic, it will be spoiled. To have as many friends as possible in the picnic, who should be invited?
 
 
 <p align="center">
