@@ -61,8 +61,8 @@ g.invitation_list()
 
 
 <p align="center">
-  <img src="task_1/figures/task1_fig1.png">
+  <img src="task_2/figures/task2_fig1.png">
 </p>
 <p align="center">   
-   <em> Fig.1 10 flower images from Flowers Dataset </em>
+   <em> Fig.1 Random Graph </em>
 </p>
