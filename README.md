@@ -74,7 +74,7 @@ g.invitation_list()
 
 
 <p align="center">
-  <img src="task_2/figures/task2_fig1.png">
+  <img src="task_2/figures/task2_fig2.png">
 </p>
 <p align="center">   
    <em> Fig.1 Random Graph </em>
