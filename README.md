@@ -95,3 +95,5 @@ g.invitation_list()
    <em> Fig.3 Maximum guest combination example </em>
 </p>
 
+Inside `task_2_graphs.ipynb` file you can find testing of algorithm on random graphs ( 5 - 10 pieces ) of varios sizes, drawing random graphs and showing the final list to the screen. 
+
