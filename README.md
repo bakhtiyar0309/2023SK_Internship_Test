@@ -40,11 +40,11 @@ To replicate the results of the experiment:
 
 The `task_2_graphs.ipynb` is implemented using `Graph` class, which contains the following methods: 
 
-A. `.add_vertex()` - Adding a node with some information 
+A. `.add_vertex()` - To add a node with some information 
 
-B. `.add_edge()` - Adding an edge between two nodes 
+B. `.add_edge()` - To add an edge between two nodes 
 
-C. `.random_graph()` - Generating a random graph based on Erdos Renyl Model
+C. `.random_graph()` - To generate a random graph based on Erdos Renyl Model
 
 D. `.adj_matrix_to_graph()` - To plot the resulting random graph using matplotlib
 
@@ -97,8 +97,6 @@ obj.invitation_list()
 <p align="center">   
    <em> Fig.3 Maximum guest combination example </em>
 </p>
-
-Inside `task_2_graphs.ipynb` file you can find testing of algorithm on random graphs ( 5 - 10 pieces ) of varios sizes, drawing random graphs and showing the final list to the screen. 
 
 
 
