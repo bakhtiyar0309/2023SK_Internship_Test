@@ -137,7 +137,7 @@ To implement:
 touch Dockerfile 
 ```
 
-Edit the Dockerfile with the following instructions: 
+- Step 2: Add instructions in `Dockerfile` 
 ```
 
 # getting base image ubuntu 
@@ -155,14 +155,14 @@ MAINTAINER bakhtiyar
 ```
 
 
-- Step 2: Build an image
+- Step 3: Build `Dockerfile` to create an image
 
 ```
 docker build -t ImageName:Tag directoryOfDockerfile
 ```
 
 
-- Step 3: Run an image 
+- Step 4: Run an image to create container 
 
 ```
 docker run imageID
