@@ -6,7 +6,7 @@ Entry test for research engineer internship position
 - Repository of diffusion model: https://github.com/cloneofsimo/minDiffusion
 - Flower images dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
-To replicate the results of the experiment, do the following: 
+To replicate the results of the experiment: 
 1. Open `task_1_flowers.ipynb` notebook inside `task_1` folder in Google Colab.
 
 2. Go to `Step 1: Prepare the Dataset` and run all cells inside to load the trained model parameters `ddpm_flower.pth`.
