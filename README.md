@@ -132,4 +132,26 @@ To implement:
 
 #### Part B: Docker
 
-Create a `Dockerfile` inside same directory with the above defined bash scripts. 
+- Step 1: Create a `Dockerfile` inside same directory with the above defined bash scripts. 
+```
+touch Dockerfile 
+```
+
+Edit the Dockerfile with the following instructions: 
+```
+
+# getting base image ubuntu 
+
+FROM ubuntu 
+
+COPY . .
+
+MAINTAINER bakhtiyar 
+
+#CMD ["bash", "./task1_script.sh"]
+
+CMD ["bash", "./task2_script.sh", "dracula.txt", "output"]
+```
+
+
+
