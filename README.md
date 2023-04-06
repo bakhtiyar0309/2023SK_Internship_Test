@@ -148,10 +148,30 @@ COPY . .
 
 MAINTAINER bakhtiyar 
 
+# uncomment the command to select which script you want to execute 
 #CMD ["bash", "./task1_script.sh"]
 
-CMD ["bash", "./task2_script.sh", "dracula.txt", "output"]
+#CMD ["bash", "./task2_script.sh", "dracula.txt", "output"]
 ```
+
+
+- Step 2: Build an image
+
+```
+docker build -t ImageName:Tag directoryOfDockerfile
+```
+
+
+- Step 3: Run an image 
+
+```
+docker run imageID
+```
+
+
+
+
+
 
 
 
