@@ -53,9 +53,11 @@ D. `.adj_matrix_to_graph()` - To plot the resulting random graph using matplotli
 #### Part A: To generate and plot a random graph, execute the following code:
 
 ```
-g = Graph()
-g.random_graph(n=10, p=0.4)
-g.adj_matrix_to_graph()
+import graph 
+
+obj = graph.Graph()
+obj.random_graph(n=10, p=0.4)
+obj.adj_matrix_to_graph()
 ```
 
 
@@ -82,10 +84,12 @@ g.adj_matrix_to_graph()
 
 To solve the maximization problem, run `.invitation_list()` method to obtain the final list of nodes we should invite for a picnic. 
 ```
-g = Graph()
-g.random_graph(n=10, p=0.4)
-g.adj_matrix_to_graph()
-g.invitation_list()
+import graph 
+
+obj = graph.Graph()
+obj.random_graph(n=10, p=0.4)
+obj.adj_matrix_to_graph()
+obj.invitation_list()
 ```
 
 <p align="center">
