@@ -39,7 +39,7 @@ To replicate the results of the experiment, do the following:
 2. Run all cells
 
 
-The `task_2_graphs.ipynb` is implemented using `Graph` class stored in `Graph.py`, which contains the following methods: 
+The `task_2_graphs.ipynb` is implemented using `Graph` class, which contains the following methods: 
 
 A. `.add_vertex()` - Adding a node with some information 
 
