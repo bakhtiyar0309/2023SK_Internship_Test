@@ -32,8 +32,8 @@ To replicate the results of the experiment:
 
 ## Task #2 Graphs
 
-To replicate the results of the experiment, do the following: 
-1. Open `task_2_graphs.ipynb` notebook inside `task_2` folder in Google Colab.
+To replicate the results of the experiment: 
+1. Open `task_2_graphs.ipynb` notebook inside `task_2` folder.
     
 2. Run all cells
 
