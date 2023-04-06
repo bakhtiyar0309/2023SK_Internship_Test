@@ -97,3 +97,39 @@ g.invitation_list()
 
 Inside `task_2_graphs.ipynb` file you can find testing of algorithm on random graphs ( 5 - 10 pieces ) of varios sizes, drawing random graphs and showing the final list to the screen. 
 
+
+
+
+## Task #3 BASH + Docker 
+
+
+#### Part A: BASH
+
+The `task_3` folder contains the following files:
+
+- `task1_script.sh` script that counts each word frequency in the `dracula.txt` text file and shows the results on screen.
+
+To implement: 
+
+```
+# navigate cd to the directory with script file and run following command:
+./task1_script.sh
+
+```
+
+
+
+- `task2_script.sh` script takes 10 most frequent words and creates empty txt files in the specified folder. 
+
+To implement:
+```
+# navigate cd to the directory with script file and run following command:
+./task2_script.sh dracula.txt res_folder
+```
+
+- `dracula.txt` the text file on which we test above scripts 
+
+
+#### Part B: Docker
+
+Create a `Dockerfile` inside same directory with the above defined bash scripts. 
